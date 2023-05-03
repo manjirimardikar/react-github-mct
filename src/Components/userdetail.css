@@ -1,0 +1,85 @@
+.maincontentuser{
+    margin-top: 70px;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    background-repeat: repeat;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mereander{
+    
+    height: 20px;
+    border: 1px solid green;
+    font-size:small;
+    margin-left: 20px;
+    margin-top: -20px;
+    border-radius: 10px;
+    background-color: white;
+    color: skyblue;
+}
+.rightuser{
+    width: 70%;
+    height: 20rem;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.userposts{
+    display: flex;
+    justify-content: space-evenly;
+}
+.userposts p{
+    color: white;
+    font-size: 18px;
+    background-color: purple;
+    border-radius: 10px;
+    width: 135px;
+}
+.carduser{
+    width: 80rem;
+    height: 23rem;
+    display: flex;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+.leftuser img{
+    width: 19rem;
+    height: 19rem;
+    border-radius: 100px;
+}
+.leftuser{
+    width: 30%;
+    height: 20rem;
+    
+}
+.usercardbottom{
+    height: 15rem;
+    width: 80rem;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+    color: black;
+    box-shadow:  0 0 10px;
+    margin-top: 20px;
+}
+.innercarduser{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leftcardbottm{
+    width: 60%;
+}
+.rightcardbottom{
+    width: 40%;
+}
